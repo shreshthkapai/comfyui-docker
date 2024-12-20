@@ -1,1 +1,1 @@
-**Docker implementation of ComfyUI.
+Docker implementation of ComfyUI.
